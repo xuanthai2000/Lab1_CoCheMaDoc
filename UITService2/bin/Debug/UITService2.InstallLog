@@ -1,0 +1,77 @@
+﻿Installing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Restoring event log to previous state for source Service1.
+Uninstalling assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Uninstalling assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Attempt to stop service Service1.
+Installing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Uninstalling assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.InstallLog
+   assemblypath = D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe

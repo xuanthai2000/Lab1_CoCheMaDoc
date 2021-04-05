@@ -1,0 +1,9 @@
+D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe.config
+D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.exe
+D:\MaDoc\UITService2\UITService2\bin\Debug\UITService2.pdb
+D:\MaDoc\UITService2\UITService2\obj\Debug\UITService2.ProjectInstaller.resources
+D:\MaDoc\UITService2\UITService2\obj\Debug\UITService2.csproj.GenerateResource.cache
+D:\MaDoc\UITService2\UITService2\obj\Debug\UITService2.csproj.CoreCompileInputs.cache
+D:\MaDoc\UITService2\UITService2\obj\Debug\UITService2.exe
+D:\MaDoc\UITService2\UITService2\obj\Debug\UITService2.pdb
+D:\MaDoc\UITService2\UITService2\obj\Debug\UITService2.csprojAssemblyReference.cache
